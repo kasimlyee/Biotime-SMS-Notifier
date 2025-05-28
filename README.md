@@ -109,7 +109,7 @@ BioTimeSMSNotifier/
    password = "your_password"
    ```
 
-4. **Prepare Excel File (`parent_contact.csv`)**
+4. **Prepare CSV File (`parent_contact.csv`)**
 
    - Must contain columns:
      - `EmpCode` (matches BioTime logs)
